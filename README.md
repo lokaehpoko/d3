@@ -98,7 +98,7 @@ Para pegar o `IAM_APIKEY` (ou `API Key` apenas), acesse o seu serviço de Visual
 
 Para subir a aplicação na IBM Cloud, você deve clicar no botão abaixo para subir usando o [IBM Continuous Delivery](https://cloud.ibm.com/catalog/services/continuous-delivery) (também conhecido como Delivery Pipeline). **Você deve subir a sua aplicação em Dallas**.
 
-[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/maratonadev/desafio-3)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/lokaehpoko/d3)
 
 ### Veja como configurar o IBM Continuous Delivery
 
